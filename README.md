@@ -6,7 +6,7 @@ Cracked version of CareUEyes (care-eyes.com)
 Перетащите файлы из скачанного репозитория в любое удобное для вас место и запустите исполняемый файл CareUEyes.exe
 
 
-/-/
+          the vid is dedicated to the developers of this software   /-/   https://www.youtube.com/watch?v=ev1y0QlPACk /-/  видео посвящается разработчикам данного программного обеспечения
 
 
 To install and work crack, it is enough to have Windows 10 and higher, DirectX and Visual C++ libraries
