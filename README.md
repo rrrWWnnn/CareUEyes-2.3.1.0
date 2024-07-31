@@ -1,6 +1,5 @@
 # CareUEyes-2.3.1.0-
 Cracked version of CareUEyes (care-eyes.com)
-Крякнутая версия CareUEyes (care-eyes.com)
 thanks to chinese company  Gazing Tai Technology Co., Ltd. -> https://www.youtube.com/watch?v=DIgqx5cUyXM
 
 Для установки и работы кряка достаточно иметь Windows 10 и выше, библиотеки DirectX и Visual C++
