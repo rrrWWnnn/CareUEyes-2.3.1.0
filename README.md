@@ -12,4 +12,5 @@ thanks to chinese company  Gazing Tai Technology Co., Ltd. -> https://www.youtub
 To install and work crack, it is enough to have Windows 10 and higher, DirectX and Visual C++ libraries
 Drag and drop files from the downloaded repository to any place convenient for you and run the executable file CareUEyes.exe
 
-![jinyang_2c2mKYRMM2](https://github.com/user-attachments/assets/ce7241ce-826f-433a-be68-c1e07d9ef9fa)
+![image](https://github.com/user-attachments/assets/9a5c272c-aac9-43c8-8421-42e95af1b120)
+
